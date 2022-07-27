@@ -3,3 +3,5 @@ Population Size: 10 Tournament Size: 2 Generations: 10 Mutation Count: 1 Best: 0
 Population Size: 25 Tournament Size: 3 Generations: 100 Mutation Count: 1 Best: 0.5279299014238773, Average: 0.5279299014238776, Time: 112.20516759999998
 Population Size: 100 Tournament Size: 3 Generations: 100 Mutation Count: 1 Best: 0.5328587075575028, Average: 0.5097426067907992, Time: 420.9374333999999
 Population Size: 10 Tournament Size: 3 Generations: 100 Mutation Count: 3 Best: 0.5279299014238773, Average: 0.5279299014238773, Time: 66.25414130000001
+Population Size: 25 Tournament Size: 3 Generations: 100 Mutation Count: 3 Best: 0.5350492880613362, Average: 0.5299671412924425, Time: 138.2056721
+Population Size: 25 Tournament Size: 3 Generations: 100 Mutation Count: 3 Best: 0.5279299014238773, Average: 0.5279299014238776, Time: 132.3722733, Date: 2022-07-23 17:20:37.069011
